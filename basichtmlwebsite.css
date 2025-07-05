@@ -1,0 +1,20 @@
+body{
+	border: solid black 2px;
+}
+#link{
+	margin-left: 900px;
+
+
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+.front{
+	margin-top: 120px;
+	text-align: center;
+}
+.table{
+	margin-top: 80px;
+	margin-left: 280px;
+}
