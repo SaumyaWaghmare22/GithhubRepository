@@ -1,0 +1,91 @@
+/* navbar css code*/
+.personImage{
+    width: 50px;
+	height: 50px;
+	display: inline;
+}
+.logo{
+	text-decoration: none;
+	color: black;
+	font-size: 20px;
+}
+.links{
+     text-decoration: none;
+	 color: black;
+	 padding-left: 40px;
+     cursor: pointer;
+}
+.links:hover{
+color: orange;
+font-weight: bold;
+
+}
+/* front end developer css code*/ 
+
+.frontend{
+	font-size: 60px;
+
+}
+.html{
+	font-size: 20px;
+	color: yellow;
+   line-height: 15px;
+	
+}
+.Developer:hover{
+	background-color: black;
+	color: aqua;
+	font-family: fantasy;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+
+
+
+.centerdiv{
+	margin-top: 100px;
+	text-align: center;
+	background-image: linear-gradient(to right ,pink,blue);
+}
+
+/* table css code*/
+
+.table{
+	text-align: center;
+	margin-top: 100px;
+	margin-left: 400px;
+}
+
+.table th{
+	background-color: black;
+	color: orange;
+}
+
+/* footer css code*/ 
+
+.review{
+	margin-top: 100px;
+}
+.review h2{
+	font-size: 40px;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.btn{
+	border-width: 1px;
+	border-style: solid;
+	background-color: white;
+	font-weight: bold;
+	width: 250px;
+	height: 105px;
+	border-radius: 52.5px;
+	margin-left: 10px;
+}
+.btn:hover{
+	background-color: blue;
+	color: white;
+	cursor: pointer;
+
+}
+
