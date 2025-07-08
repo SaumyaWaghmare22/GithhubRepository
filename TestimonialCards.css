@@ -1,0 +1,45 @@
+.container{
+    display: flex;
+}
+.card1{
+    width: 300px;
+    border: 1px solid black;
+    height: 167px;
+    background-color: black;
+    color: white;
+    font-family: Arial;
+    font-size: 18px;
+    margin-left: 30px;
+    padding-left: 20px;
+    border-radius: 8px;
+  
+    
+}
+.hv{
+    margin-bottom: 0;
+}
+.highly{
+    margin-top: 0;
+    line-height: 90px;
+}
+.male1{
+    margin-left: 40px;
+    margin-top: 30px;
+    width: 90px;
+    height: 77px;
+    border-radius:35px ;
+}
+.container2{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.arthem{
+    font-weight: bold;
+    font-size: 20px;
+    color: black;
+}
+.junior2{
+    color: gray;
+    font-size: 15px;
+}
