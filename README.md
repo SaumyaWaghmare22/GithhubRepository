@@ -7,3 +7,6 @@ https://roadmap.sh/projects/portfolio-website
 ![PersonalOutput](https://github.com/user-attachments/assets/2a5170bd-f921-4e5c-9123-eced3c50b44e)
 
 ![frontend](https://github.com/user-attachments/assets/804710e8-f96a-4a56-8a67-eeec27021fa5)
+
+https://roadmap.sh/projects/testimonial-cards
+![testimonial card output](https://github.com/user-attachments/assets/4112b82a-6b3c-45fe-b4fc-0fb96fe4bee8)
