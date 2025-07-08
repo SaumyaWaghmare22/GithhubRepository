@@ -1,0 +1,35 @@
+.form{
+    width: 300px;
+    height: 360px;
+    border: 2px solid black;
+    line-height: 30px;
+      border-width: 3px;
+}
+
+.label{
+    font-size: 19px;
+    font-family: 'Trebuchet MS';
+    font-weight: bold;
+}
+
+.textbox{
+    width: 200px;
+    height: 26px;
+    border-radius: 3px;
+  
+}
+.update{
+    background-color: black;
+    color: white;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-left: 30px;
+margin-top: 30px;
+font-size: 20px;
+box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
